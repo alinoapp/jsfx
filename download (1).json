@@ -1,0 +1,17 @@
+{
+    "activated": [
+        {
+                "id": "0"
+                
+        }
+        
+    ],
+    
+    "timer": [
+        {
+                "firsttime": "34400",
+                "displaytime": "520000"
+        }
+        
+    ]
+}
